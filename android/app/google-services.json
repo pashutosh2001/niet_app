@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041706690714",
+    "project_id": "niet-clg-app",
+    "storage_bucket": "niet-clg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041706690714:android:3f1dccbaf54ed491839723",
+        "android_client_info": {
+          "package_name": "com.example.niet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041706690714-o2g0q8lgjnl7o1blvd2kjttl1pqasaqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0r-r7OMyEKCNbPNx7E593lYbgcoFnL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041706690714-o2g0q8lgjnl7o1blvd2kjttl1pqasaqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
