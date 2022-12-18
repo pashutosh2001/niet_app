@@ -8,7 +8,7 @@ It consists of two separate applications, one for students - where they can go t
 
 ## Snapshots of Students App:
 
-![1] <img src="https://user-images.githubusercontent.com/63455052/208287337-03afb506-5614-4858-8c26-3db824dcb664.jpg" width="150" height="280">
+![1] <img src="https://user-images.githubusercontent.com/63455052/208287337-03afb506-5614-4858-8c26-3db824dcb664.jpg" width="200" height="432">
 ![2](https://user-images.githubusercontent.com/63455052/208287341-69be4744-07a8-4abc-97bc-15efe6577c56.jpg)
 ![3](https://user-images.githubusercontent.com/63455052/208287342-7278a081-aa9e-4b00-b588-b9802b683229.jpg)
 ![4](https://user-images.githubusercontent.com/63455052/208287349-3f754bcd-040f-4aaf-9c4e-4086704d7972.jpg)
