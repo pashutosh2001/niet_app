@@ -1,10 +1,10 @@
 # niet_app
 
-A new Flutter project.
+## College Management Application.
 
-## Getting Started
+This project is about college management application which is designed to get all college records on your fingertips.
 
-This project is a starting point for a Flutter application.
+It consists of two separate applications, one for students - where they can go through their academic details and get all study materials easily and the other app for admin such as Professors, Head of Departments and the adminstrative staff. In the admin app, admins can provide notices, study materials and also can update and add attendance marks and dues of students.
 
 A few resources to get you started if this is your first Flutter project:
 
